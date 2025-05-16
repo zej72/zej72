@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F748%2F945%2F67c.png&f=1&nofb=1&ipt=2252d8bfb052172d9c69b130a8d590ca9bd08e58fed0005fba0676209d0d1552" alt="tole tole c:">
+</p>
 <!--
 **zej72/zej72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
